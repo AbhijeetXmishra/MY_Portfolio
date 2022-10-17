@@ -1,4 +1,4 @@
-vesit this site :- https://abhijeetxmishra.github.io/MY_Portfolio/
+visit this site :- https://abhijeetxmishra.github.io/MY_Portfolio/
 
 ## Responsive Portfolio Website ✨
 
